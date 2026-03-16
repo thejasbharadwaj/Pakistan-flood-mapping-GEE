@@ -42,10 +42,10 @@ This project uses **free and open satellite data** in **Google Earth Engine** to
 
 | Period | Water Area | Notes |
 |---|---|---|
-| Pre-Flood (May–Jun 2022) | 726 km² | Permanent water baseline (Manchar Lake + Indus) |
+| Pre-Flood (Jun 2022) | 726 km² | Permanent water baseline (Manchar Lake + Indus) |
 | Peak Flood (Aug 2022) | +431 km² new | Total inundation ~1,157 km² — nearly double baseline |
 | Post-Flood (Nov 2022) | +258 km² remaining | Only 40% of flood water drained in 2 months |
-| Recovery (Mar 2023) | +160 km² remaining | 63% of flood water still present after 7 months |
+| Recovery (Jan 2023) | +160 km² remaining | 63% of flood water still present after 7 months |
 
 ### Agricultural Impact (NDVI — Cropland Only, August)
 
