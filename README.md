@@ -22,8 +22,6 @@ MS Space & Astronautical Engineering — Sapienza University of Rome
 | Nawabshah (Shaheed Benazirabad) | Key agricultural district |
 | Hyderabad | Major city — southern Sindh |
 
-> **Note:** 3 additional districts (Jamshoro, Qambar Shahdadkot, Matiari) were intended for analysis but are not available in the FAO GAUL Level-2 dataset used. Results are therefore conservative estimates.
-
 ---
 
 ## 🎯 What This Project Does
@@ -114,11 +112,11 @@ All scripts run in [Google Earth Engine Code Editor](https://code.earthengine.go
 
 | Script | Description | GEE Link |
 |---|---|---|
-| Code 1 — SAR Permanent Water | Sentinel-1 VH backscatter + JRC water detection | [Open in GEE](](https://code.earthengine.google.com/2b937ae039cfd142c894d11e9129eb8a)) |
-| Code 2 — Optical Agriculture | Sentinel-2 NDVI cropland + water mapping | [Open in GEE](https://code.earthengine.google.com/9b60b956ea84301f613c2ced46ed18b9)) |
-| Code 3 — Flood Mapping + Population | SAR change detection 4 periods + WorldPop stats | [Open in GEE](https://code.earthengine.google.com/your-link-3) |
-| Code 4A — NDVI 4 Periods | NDVI pre/during/post flood + recovery | [Open in GEE](https://code.earthengine.google.com/your-link-4a) |
-| Code 4B — NDVI Year Comparison | August NDVI 2020–2024 year-on-year | [Open in GEE](https://code.earthengine.google.com/your-link-4b) |
+| Code 1 — SAR Permanent Water | Sentinel-1 VH backscatter + JRC water detection | [Open in GEE](https://code.earthengine.google.com/31e099d4ee12d037e4786f767ccd9e1d)|
+| Code 2 — Optical Agriculture | Sentinel-2 NDVI cropland + water mapping | [Open in GEE](https://code.earthengine.google.com/9d4c366164b3f2851b654109b5cb31b5)) |
+| Code 3 — Flood Mapping + Population | SAR change detection 4 periods + WorldPop stats | [Open in GEE](https://code.earthengine.google.com/9d4c366164b3f2851b654109b5cb31b5) |
+| Code 4A — NDVI 4 Periods | NDVI pre/during/post flood + recovery | [Open in GEE](https://code.earthengine.google.com/c1507915c14deed27d5597ade7ec333c) |
+| Code 4B — NDVI Year Comparison | August NDVI 2020–2024 year-on-year | [Open in GEE](https://code.earthengine.google.com/6b62c963b1aa9c6cfee26ffa5deba98b) |
 
 Scripts are fully independent — each can be run separately.
 
@@ -149,8 +147,8 @@ Scripts are fully independent — each can be run separately.
 MS Space & Astronautical Engineering  
 Sapienza University of Rome, Italy
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) — *replace with your link*
-- 📧 your.email@email.com — *replace with your email*
+- 💼 [LinkedIn](https://www.linkedin.com/in/bharadwajthejasv?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkUCyziU6SMCTN8omHxGgyA%3D%3D) 
+- 📧 bharadwajtysv@gmail.com
 
 ---
 
