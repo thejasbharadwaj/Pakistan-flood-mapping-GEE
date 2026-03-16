@@ -114,8 +114,8 @@ All scripts run in [Google Earth Engine Code Editor](https://code.earthengine.go
 
 | Script | Description | GEE Link |
 |---|---|---|
-| Code 1 — SAR Permanent Water | Sentinel-1 VH backscatter + JRC water detection | [Open in GEE](https://code.earthengine.google.com/your-link-1) |
-| Code 2 — Optical Agriculture | Sentinel-2 NDVI cropland + water mapping | [Open in GEE](https://code.earthengine.google.com/your-link-2) |
+| Code 1 — SAR Permanent Water | Sentinel-1 VH backscatter + JRC water detection | [Open in GEE](](https://code.earthengine.google.com/2b937ae039cfd142c894d11e9129eb8a)) |
+| Code 2 — Optical Agriculture | Sentinel-2 NDVI cropland + water mapping | [Open in GEE](https://code.earthengine.google.com/9b60b956ea84301f613c2ced46ed18b9)) |
 | Code 3 — Flood Mapping + Population | SAR change detection 4 periods + WorldPop stats | [Open in GEE](https://code.earthengine.google.com/your-link-3) |
 | Code 4A — NDVI 4 Periods | NDVI pre/during/post flood + recovery | [Open in GEE](https://code.earthengine.google.com/your-link-4a) |
 | Code 4B — NDVI Year Comparison | August NDVI 2020–2024 year-on-year | [Open in GEE](https://code.earthengine.google.com/your-link-4b) |
